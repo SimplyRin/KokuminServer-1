@@ -1,0 +1,48 @@
+name: KokuminServer
+version: 0.1
+main: me.nucha.kokumin.Main
+commands:
+  premium:
+  donation:
+  toggletesting:
+    permission: kokumin.toggletesting
+  coin:
+  addcoin:
+    permission: kokumin.addcoin
+  takecoin:
+    permission: kokumin.takecoin
+  setmotd:
+    permission: kokumin.setmotd
+  accountinfo:
+    permission: kokumin.accountinfo
+    aliases: [accinfo]
+  fastpot:
+    permission: kokumin.fastpot
+  enderchest:
+    permission: kokumin.enderchest
+    aliases: [ec]
+  kaboom:
+    permission: kokumin.kaboom
+  boosteradmin:
+    permission: kokumin.boosteradmin
+  invite:
+  system:
+    permission: kokumin.system
+  namehistory:
+    permission: kokumin.namehistory
+    aliases: [name]
+  walkspeed:
+    permission: kokumin.walkspeed
+  flyspeed:
+    permission: kokumin.flyspeed
+  rename:
+    permission: kokumin.rename
+  openkabu:
+    permission: kokumin.openkabu
+  potionmaker:
+    permission: kokumin.potionmaker
+  selectsign:
+    permission: kokumin.selectsign
+  setsign:
+    permission: kokumin.selectsign
+  ping:
